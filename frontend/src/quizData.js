@@ -1,0 +1,57 @@
+export const quizData = [
+  {
+    topic: "DSA",
+    subtopics: [
+      "Arrays",
+      "Linked Lists",
+      "Stacks",
+      "Queues",
+      "Trees",
+      "Graphs",
+      "Sorting Algorithms",
+      "Searching Algorithms",
+      "Hashing",
+      "Dynamic Programming",
+      "Greedy Algorithms",
+      "Bit Manipulation",
+      "Recursion",
+      "Divide and Conquer",
+      "Backtracking",
+      "Heap Data Structure",
+      "Priority Queues",
+      "Graph Algorithms (DFS, BFS)",
+      "Segment Trees",
+      "Trie Data Structure",
+    ],
+  },
+  {
+    topic: "Frontend",
+    subtopics: ["HTML", "CSS", "JavaScript", "React"],
+  },
+  {
+    topic: "Backend",
+    subtopics: ["Node.js", "Express.js"],
+  },
+  {
+    topic: "Low Level Design",
+    subtopics: [
+      "Module Design",
+      "Data Structures",
+      "Algorithm Design",
+      "Interface Design",
+      "Concurrency and Multithreading",
+      "Error Handling",
+    ],
+  },
+  {
+    topic: "High Level Design",
+    subtopics: [
+      "System Architecture",
+      "Software Modules and Components",
+      "Data Flow and Data Models",
+      "Database Design",
+      "User Interface Design",
+      "External System Integration",
+    ],
+  },
+];
